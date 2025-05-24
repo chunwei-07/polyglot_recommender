@@ -5,3 +5,6 @@ def phase_1_ui():
 
     st.title("🧠 PolyLingua Recommender: Language Learning Recommender AI")
     st.caption("PolyLingua Recommender by Agent PolySynth & Kairo")
+
+if __name__ == "__main__":
+    phase_1_ui()
