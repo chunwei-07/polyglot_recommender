@@ -1,0 +1,10 @@
+[
+    {
+        "language": "Japanese",
+        "difficulty": "Challenging",
+        "related_to": ["Chinese", "Korean"],
+        "use_case": ["career", "culture"],
+        "learning_style_fit": ["visual", "immersive"],
+        "avg_months_to_B1": 9
+    }
+]
